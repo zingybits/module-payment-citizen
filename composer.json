@@ -1,0 +1,11 @@
+{
+    "name": "zingybits/module-payment-citizen",
+    "description": "Citizen cardless payment module for Magento 2 - metapackage",
+    "type": "metapackage",
+    "version": "2.0.3",
+    "license": "GPL-3.0",
+    "require": {
+        "zingybits/module-payment-citizen-core": "^2.0",
+        "zingybits/module-payment-citizen-front-ui": "^2.0"
+    }
+}
